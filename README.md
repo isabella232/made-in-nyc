@@ -16,8 +16,8 @@ License:
 http://creativecommons.org/licenses/by/3.0/
 
 ---
-[Ontodia]: http://ontodia.com   
+[Ontodia](http://ontodia.com)   
 Crowdknowing - Human-powered, Machine-accelerated, Collective Knowledge Systems
 
-[Pediacities]: http://pediacities.com   
+[Pediacities](http://pediacities.com)   
 Creating dot.communities
