@@ -15,7 +15,7 @@ Attributions:
 License:
 http://creativecommons.org/licenses/by/3.0/
 
-==========================
+---
 Ontodia, Inc
 Crowdknowing - Human-powered, Machine-accelerated, Collective Knowledge Systems
 
