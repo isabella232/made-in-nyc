@@ -1,7 +1,8 @@
 made-in-nyc
 ===========
 
-"Made in NYC" logo lovingly made in NYC ;)
+"Made in NYC" logo [lovingly made in NYC](http://www.pediacities.com/2012/12/proudly-made-in-nyc/) ;)
+
 
 NOTE:
 To edit the file in Illustrator or Inkscape, be sure to install the free Silkscreen font first.
