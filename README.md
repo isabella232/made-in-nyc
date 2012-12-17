@@ -1,6 +1,8 @@
 made-in-nyc
 ===========
 
+![Made in NYC](https://raw.github.com/Ontodia/made-in-nyc/master/made_in_NYC_logo-450x150.gif "Made in NYC")
+
 "Made in NYC" logo [lovingly made in NYC](http://www.pediacities.com/2012/12/proudly-made-in-nyc/) ;)
 
 
