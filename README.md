@@ -4,7 +4,7 @@
 
 
 ####Note:  
-To edit the file in Illustrator or Inkscape, be sure to [install the free Silkscreen font first]((http://www.kottke.org/plus/type/silkscreen/).
+To edit the file in Illustrator or Inkscape, be sure to [install the free Silkscreen font first](http://www.kottke.org/plus/type/silkscreen/).
 If you'd rather not install the font, use the vector files with the"-nofont" suffix.
 
 ####Attributions:  
